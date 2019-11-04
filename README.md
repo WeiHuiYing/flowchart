@@ -1,2 +1,3 @@
 # flowchart
-flowchart-vue
+SVG实现流程图绘制
+根据大神的未完成版本  进行了补充  地址 https://github.com/zhangyuanliang/flowchart-vue
